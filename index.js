@@ -1,4 +1,4 @@
-module.export ={
+module.exports ={
 
     saludo(){
         console.log('hola mundo');
